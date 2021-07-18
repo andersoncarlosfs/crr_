@@ -7,20 +7,15 @@ img {
 	vertical-align: bottom;
 }
 
-.header .menu {
-	text-align: center;
-}
 
-.header .menu ul {
+.header ul.menu {
 	display: inline-block;
+	list-style: none;
 	margin: 0;
 	padding: 0;
-	/* For IE, the outcast */
-	zoom:1;
-	*display: inline;
 }
 
-.header .menu  li {
+.header ul.menu  li {
 	float: left;
 	padding: 2px 5px;
 	border: 1px solid black;
