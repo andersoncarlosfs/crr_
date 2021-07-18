@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Hello Everybody,
 
-You can use the [editor on GitHub](https://github.com/andersoncarlosfs/CurriculumVitae/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**I am Anderson Carlos, passionate about Technology & Research. Project-driven professional with a background in System Information, Big Data and Machine Learning. Accomplished in delivering software solutions, achieving all objectives, and ensuring quality processes** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Expertises
+
+|----------:|:----------------:|:-----------------:|:------------------------------:|
+| Systems   | Linux            | Docker/Kubernetes | Spark Microsoft Azure          |
+| Languages | Python           | SQL               | Java Dart/Flutter              |
+| Design    | UML              | Agile             | Systems Modeling Microservices |
+| Studies   | Machine Learning | Graphs            | Big Data Stream Processing     |
 
 ### Markdown
 
