@@ -13,7 +13,7 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 
 ## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/favorite/v15/24px.svg) Interests
 
-### Tutoring 
+### ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/edit/v11/24px.svg) Tutoring 
 
 - Introduction to information science at PUC-Campinas (2011), Brazil 
 - Algorithms and computer programming at PUC-Campinas (2011), Brazil 
@@ -21,13 +21,13 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 - Programming Paradigms at PUC-Campinas (2013), Brazil 
 - French and Portuguese on Tandem/WeChat (2019), France
 
-### Event Management 
+### ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/event/v17/24px.svg) Event Management 
 
 - Welcoming guests at the São Paulo Campus Party (2011), Brazil 
 - Organizing the Junior Conference on Data Science and Engineering (2018), France
 - Organizing and chairman (Machine Learning and Data Science) at the Junior Conference on Data Science and Engineering (2019), France
 
-### Research 
+### ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/manage_search/v9/24px.svg) Research 
 
 - Anderson Carlos Ferreira da Silva, Fatiha Saïs, Emmanuel Waller and Frederic Andres (2020). Dissimilarity-based approach for Identity Link Invalidation. Available on: [publishing] 
 - Fatiha Saïs, Rallou Thomopoulos and Anderson Carlos Ferreira da Silva (2018). Argumentation-based Explanation of Linked Data Fusion. Available on: https://ieeexplore.ieee.org/document/8495949 
