@@ -4,8 +4,8 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 
 ## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment_turned_in/v14/24px.svg) Expertises
 
-| Systems         | Languages         | Design        | **Studies**      |
-|:---------------:|:-----------------:|:-------------:|:----------------:|
+| ![] https://fonts.gstatic.com/s/i/materialiconsoutlined/computer/v11/24px.svg) Systems | Languages         | Design        | **Studies**      |
+|:---------------------------------------------------------------------------------------|:-----------------:|:-------------:|:----------------:|
 | Linux           | Python            | UML           | Machine Learning |
 | Docker          | Java              | DFD           | Big Data         |
 | Kubernetes      | SQL               | Agile         | Graphs/RDF       |
