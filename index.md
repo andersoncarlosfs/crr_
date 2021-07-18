@@ -1,9 +1,10 @@
 ## Hello Everybody,
 
-**I am Anderson Carlos, passionate about Technology & Research. Project-driven professional with a background in System Information, Big Data and Machine Learning. Accomplished in delivering software solutions, achieving all objectives, and ensuring quality processes** 
+*I am Anderson Carlos, passionate about Technology & Research. Project-driven professional with a background in System Information, Big Data and Machine Learning. Accomplished in delivering software solutions, achieving all objectives, and ensuring quality processes* 
 
 ### Expertises
 
+|           |                  |                   |                                |
 |----------:|:----------------:|:-----------------:|:------------------------------:|
 | Systems   | Linux            | Docker/Kubernetes | Spark Microsoft Azure          |
 | Languages | Python           | SQL               | Java Dart/Flutter              |
