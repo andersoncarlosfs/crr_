@@ -24,10 +24,10 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="https://www.linkedin.com/in/andersoncarlosfs/">LinkedIn</a></p>
-        {% endif %}
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a></p>
+        <ul class="downloads">
+          <li><a href="https://www.linkedin.com/in/andersoncarlosfs/">LinkedIn</a></li>
+          <li><a href="{{ site.github.owner_url }}">GitHub</a></li>
+        </ul>
         {% endif %}
 
         {% if site.github.is_user_page %}
