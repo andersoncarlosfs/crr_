@@ -1,8 +1,8 @@
 ## Hello Everybody,
 
-*I am Anderson Carlos, passionate about Technology & Research. Project-driven professional with a background in System Information, Big Data and Machine Learning. Accomplished in delivering software solutions, achieving all objectives, and ensuring quality processes* 
+_I am Anderson Carlos, passionate about Technology & Research. Project-driven professional with a background in System Information, Big Data and Machine Learning. Accomplished in delivering software solutions, achieving all objectives, and ensuring quality processes_ 
 
-### Expertises
+## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/assignment_turned_in/v14/24px.svg) Expertises
 
 | Systems         | Languages         | Design        | **Studies**      |
 |:---------------:|:-----------------:|:-------------:|:----------------:|
@@ -11,34 +11,10 @@
 | Kubernetes      | SQL               | Agile         | Graphs/RDF       |
 | Microsoft Azure | Dart/Flutter      | Microservices | Streaming        |
 
-### Markdown
+## Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ø Tutoring Introduction to information science at PUC-Campinas (2011), Brazil Algorithms and computer programming at PUC-Campinas (2011), Brazil Web programming at PUC-Campinas (2012), Brazil Programming Paradigms at PUC-Campinas (2013), Brazil French and Portuguese on Tandem/WeChat (2019), Brazil
 
-```markdown
-Syntax highlighted code block
+Ø Event Management Welcoming guests at the São Paulo Campus Party (2011), Brazil Organizing and chairman (Machine Learning and Data Science) at the Junior Conference on Data Science and Engineering (2018/2019), France
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andersoncarlosfs/CurriculumVitae/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ø Research work Anderson Carlos Ferreira da Silva, Fatiha Saïs, Emmanuel Waller and Frederic Andres (2020). Dissimilarity-based approach for Identity Link Invalidation. Available on: [publishing] Fatiha Saïs, Rallou Thomopoulos and Anderson Carlos Ferreira da Silva (2018). Argumentation-based Explanation of Linked Data Fusion. Available on: https://ieeexplore.ieee.org/document/8495949 Anderson Carlos Ferreira da Silva and Leandro Henrique Mendonça de Oliveira (2013). New interactivity and information gathering tools made available on the Embrapa Information Agency website. Available on: http://www.alice.cnptia.embrapa.br/handle/doc/954548 [Portuguese] 
