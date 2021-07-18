@@ -4,13 +4,12 @@
 
 ### Expertises
 
-| Systems         | Languages         | Design        | **Studies**       |
-|:---------------:|:-----------------:|:-------------:|:-----------------:|
-| Linux           | Python            | UML           | Machine Learning  |
-| Docker          | Java              | DFD           | Big Data          |
-| Kubernetes      | SQL               | Agile         | Graphs/RDF        |
-| Microsoft Azure | Dart/Flutter      | Microservices | Batch Processing  |
-| Spark           | Shell Script/Bash | POO           | Stream Processing |  
+| Systems         | Languages         | Design        | **Studies**      |
+|:---------------:|:-----------------:|:-------------:|:----------------:|
+| Linux           | Python            | UML           | Machine Learning |
+| Docker          | Java              | DFD           | Big Data         |
+| Kubernetes      | SQL               | Agile         | Graphs/RDF       |
+| Microsoft Azure | Dart/Flutter      | Microservices | Streaming        |
 
 ### Markdown
 
