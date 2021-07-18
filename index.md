@@ -29,6 +29,6 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 
 ### ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/manage_search/v9/24px.svg) Research 
 
-- Anderson Carlos Ferreira da Silva, Fatiha Saïs, Emmanuel Waller and Frederic Andres (2020). Dissimilarity-based approach for Identity Link Invalidation. Available on: [publishing] 
-- Fatiha Saïs, Rallou Thomopoulos and Anderson Carlos Ferreira da Silva (2018). Argumentation-based Explanation of Linked Data Fusion. Available on: https://ieeexplore.ieee.org/document/8495949 
-- Anderson Carlos Ferreira da Silva and Leandro Henrique Mendonça de Oliveira (2013). New interactivity and information gathering tools made available on the Embrapa Information Agency website. Available on: http://www.alice.cnptia.embrapa.br/handle/doc/954548 [Portuguese] 
+- Anderson Carlos Ferreira da Silva, Fatiha Saïs, Emmanuel Waller and Frederic Andres (2020). Dissimilarity-based approach for Identity Link Invalidation. Available on: [https://ieeexplore.ieee.org/document/9338514](https://ieeexplore.ieee.org/document/9338514) [English] 
+- Fatiha Saïs, Rallou Thomopoulos and Anderson Carlos Ferreira da Silva (2018). Argumentation-based Explanation of Linked Data Fusion. Available on: [https://ieeexplore.ieee.org/document/8495949](https://ieeexplore.ieee.org/document/8495949) [English)
+- Anderson Carlos Ferreira da Silva and Leandro Henrique Mendonça de Oliveira (2013). New interactivity and information gathering tools made available on the Embrapa Information Agency website. Available on: [http://www.alice.cnptia.embrapa.br/handle/doc/954548](http://www.alice.cnptia.embrapa.br/handle/doc/954548) [Portuguese] 
