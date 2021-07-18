@@ -24,7 +24,8 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 ### Event Management 
 
 - Welcoming guests at the São Paulo Campus Party (2011), Brazil 
-- Organizing and chairman (Machine Learning and Data Science) at the Junior Conference on Data Science and Engineering (2018/2019), France
+- Organizing the Junior Conference on Data Science and Engineering (2018), France
+- Organizing and chairman (Machine Learning and Data Science) at the Junior Conference on Data Science and Engineering (2019), France
 
 ### Research 
 
