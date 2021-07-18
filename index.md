@@ -1,4 +1,4 @@
-## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/face/v14/24px.svg =18x18) Hello Everybody,
+## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/face/v14/24px.svg){ width=50% } Hello Everybody,
 
 _I am Anderson Carlos, passionate about Technology & Research. Project-driven professional with a background in System Information, Big Data and Machine Learning. Accomplished in delivering software solutions, achieving all objectives, and ensuring quality processes_ 
 
