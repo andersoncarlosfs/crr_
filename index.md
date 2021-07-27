@@ -36,6 +36,6 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 ## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/account_balance_wallet/v11/24px.svg) Support me
 
 - Binance Pay: [andersoncarlosfs](https://app.binance.com/cn/qr/dplk69e279fff5e8445ea2060689c0d56291) / [151298424](https://app.binance.com/cn/qr/dplk69e279fff5e8445ea2060689c0d56291) / [QR Code](/assets/images/binance_pay.jpeg)
-- Binance P2P: [andersoncarlosfs](https://www.binance.com/en/qr/pymte0b28b77e88344c582a9a8d3a5d29517) / [QR Code](/assets/images/binance_p2p.jpg)
+- Binance P2P: andersoncarlosfs / [QR Code](/assets/images/binance_p2p.jpeg)
 - Revolut: [andersoncarlosfs](https://revolut.me/andersoncarlosfs) 
 
