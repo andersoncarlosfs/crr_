@@ -39,5 +39,5 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 - Revolut: [andersoncarlosfs](https://revolut.me/andersoncarlosfs)
 
 [^binance]: If you wish to support me through Binance you can choose one of the following procedures:
-- [Binance Pay](https://www.binance.com/en/support/faq/b3fa3ae045b9429084203c3a4ff1362f)
-- [Binance P2P](https://www.binance.com/en/blog/421499824684902082/How-to-Send-Crypto-to-Family-and-Friends-Worldwide-Using-Binance-P2P)
+  - [Binance Pay](https://www.binance.com/en/support/faq/b3fa3ae045b9429084203c3a4ff1362f)
+  - [Binance P2P](https://www.binance.com/en/blog/421499824684902082/How-to-Send-Crypto-to-Family-and-Friends-Worldwide-Using-Binance-P2P)
