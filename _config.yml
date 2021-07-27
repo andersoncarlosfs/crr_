@@ -1,5 +1,5 @@
 description: 'Feel free to contact me and support me!'
 logo: '/assets/images/qr.jpg'
-markdown: kramdown
+#markdown: kramdown
 title: 'andersoncarlosfs'
 theme: 'jekyll-theme-minimal'
