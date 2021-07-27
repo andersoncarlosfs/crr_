@@ -35,8 +35,7 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 
 ## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/account_balance_wallet/v11/24px.svg) Support me
 
-- Binance: [andersoncarlosfs (151298424)](https://app.binance.com/cn/qr/dplk69e279fff5e8445ea2060689c0d56291)[^binance_pay][^binance_p2p]
-- Revolut: [andersoncarlosfs](https://revolut.me/andersoncarlosfs)
+- Binance Pay: [andersoncarlosfs](https://app.binance.com/cn/qr/dplk69e279fff5e8445ea2060689c0d56291) / [151298424](https://app.binance.com/cn/qr/dplk69e279fff5e8445ea2060689c0d56291) / [QR Code](/assets/images/binance_pay)
+- Binance P2P: [andersoncarlosfs](https://www.binance.com/en/qr/pymte0b28b77e88344c582a9a8d3a5d29517) / [QR Code](/assets/images/binance_p2p)
+- Revolut: [andersoncarlosfs](https://revolut.me/andersoncarlosfs) 
 
-[^binance_pay]: If you wish support me through [Binance Pay](https://www.binance.com/en/support/faq/b3fa3ae045b9429084203c3a4ff1362f)
-[^binance_p2p]: If you wish support me through [Binance P2P](https://www.binance.com/en/blog/421499824684902082/How-to-Send-Crypto-to-Family-and-Friends-Worldwide-Using-Binance-P2P)
