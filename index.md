@@ -35,5 +35,5 @@ _I am Anderson Carlos, passionate about Technology & Research. Project-driven pr
 
 ## ![](https://fonts.gstatic.com/s/i/materialiconsoutlined/account_balance_wallet/v11/24px.svg) Support me
 
-- Binance: [andersoncarlosfs (151298424)](https://app.binance.com/cn/qr/dplk69e279fff5e8445ea2060689c0d56291){:target='_blank'}
-- Revolut: [andersoncarlosfs](https://revolut.me/andersoncarlosfs){:target='_blank'}
+- Binance: [andersoncarlosfs (151298424)](https://app.binance.com/cn/qr/dplk69e279fff5e8445ea2060689c0d56291){:target="_blank" rel="noopener"}
+- Revolut: [andersoncarlosfs](https://revolut.me/andersoncarlosfs){:target="_blank" rel="noopener"}
