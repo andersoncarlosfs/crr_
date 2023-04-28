@@ -1,6 +1,8 @@
+
 description: 'Vous pouvez consulter le calendrier CRR et la liste des sessions d’examen dans le département de votre choix.'
 logo: '/assets/images/favicon.jpg'
 #markdown: kramdown
-title: 'Calendrier de Certificat Restreint de Radiotéléphoniste (CRR)'
-#theme: 'jekyll-theme-minimal'
+owner_resume: 'https://andersoncarlosfs.github.io/resume/'
 remote_theme: 'pages-themes/minimal@master'
+#theme: 'jekyll-theme-minimal'
+title: 'Calendrier de Certificat Restreint de Radiotéléphoniste (CRR)'
