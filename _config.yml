@@ -1,8 +1,9 @@
 
 description: 'Vous pouvez consulter la liste des sessions du Certificat Restreint de Radiotéléphoniste (CRR) dans le département de votre choix.'
+github:
+ - owner_resume: 'https://andersoncarlosfs.github.io/resume/'
 logo: '/assets/images/favicon.jpg'
 #markdown: kramdown
-owner_resume: 'https://andersoncarlosfs.github.io/resume/'
 remote_theme: 'pages-themes/minimal@master'
 #theme: 'jekyll-theme-minimal'
 title: 'Calendrier CRR'
